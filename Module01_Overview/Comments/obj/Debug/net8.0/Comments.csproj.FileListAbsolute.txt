@@ -1,0 +1,16 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\bin\Debug\net8.0\Comments.xml
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\refint\Comments.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\Comments.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module01_Overview\Comments\obj\Debug\net8.0\ref\Comments.dll
