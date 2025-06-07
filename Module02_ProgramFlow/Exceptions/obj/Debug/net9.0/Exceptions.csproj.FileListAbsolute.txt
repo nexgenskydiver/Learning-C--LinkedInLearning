@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\bin\Debug\net9.0\Exceptions.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\bin\Debug\net9.0\Exceptions.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\bin\Debug\net9.0\Exceptions.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\bin\Debug\net9.0\Exceptions.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\bin\Debug\net9.0\Exceptions.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\refint\Exceptions.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\Exceptions.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Exceptions\obj\Debug\net9.0\ref\Exceptions.dll

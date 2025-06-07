@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\bin\Debug\net9.0\ConditionalOps.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\bin\Debug\net9.0\ConditionalOps.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\bin\Debug\net9.0\ConditionalOps.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\bin\Debug\net9.0\ConditionalOps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\bin\Debug\net9.0\ConditionalOps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\refint\ConditionalOps.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ConditionalOps.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module02_ProgramFlow\Conditional-switch\obj\Debug\net9.0\ref\ConditionalOps.dll
