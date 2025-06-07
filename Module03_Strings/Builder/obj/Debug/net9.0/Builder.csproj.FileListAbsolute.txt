@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\bin\Debug\net9.0\Builder.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\bin\Debug\net9.0\Builder.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\bin\Debug\net9.0\Builder.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\bin\Debug\net9.0\Builder.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\refint\Builder.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Builder\obj\Debug\net9.0\ref\Builder.dll

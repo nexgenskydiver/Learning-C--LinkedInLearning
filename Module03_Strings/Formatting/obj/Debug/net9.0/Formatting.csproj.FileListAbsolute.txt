@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\bin\Debug\net9.0\Formatting.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\bin\Debug\net9.0\Formatting.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\bin\Debug\net9.0\Formatting.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\bin\Debug\net9.0\Formatting.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\bin\Debug\net9.0\Formatting.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\refint\Formatting.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\Formatting.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Formatting\obj\Debug\net9.0\ref\Formatting.dll

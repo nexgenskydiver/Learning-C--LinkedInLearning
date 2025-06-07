@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\bin\Debug\net9.0\Interpolation.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\bin\Debug\net9.0\Interpolation.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\bin\Debug\net9.0\Interpolation.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\bin\Debug\net9.0\Interpolation.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\bin\Debug\net9.0\Interpolation.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\refint\Interpolation.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\Interpolation.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module03_Strings\Interpolation\obj\Debug\net9.0\ref\Interpolation.dll
