@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\bin\Debug\net9.0\DefaultParams.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\bin\Debug\net9.0\DefaultParams.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\bin\Debug\net9.0\DefaultParams.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\bin\Debug\net9.0\DefaultParams.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\bin\Debug\net9.0\DefaultParams.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\refint\DefaultParams.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\DefaultParams.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module04_Functions\DefaultParams\obj\Debug\net9.0\ref\DefaultParams.dll
