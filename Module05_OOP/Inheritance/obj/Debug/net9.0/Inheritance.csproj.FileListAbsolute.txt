@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\bin\Debug\net9.0\Inheritance.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\bin\Debug\net9.0\Inheritance.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll

@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\bin\Debug\net9.0\Properties.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\bin\Debug\net9.0\Properties.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\bin\Debug\net9.0\Properties.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\bin\Debug\net9.0\Properties.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\bin\Debug\net9.0\Properties.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\refint\Properties.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\Properties.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Properties\obj\Debug\net9.0\ref\Properties.dll

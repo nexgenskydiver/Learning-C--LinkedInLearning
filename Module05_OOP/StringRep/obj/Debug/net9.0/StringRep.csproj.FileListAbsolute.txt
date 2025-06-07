@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\bin\Debug\net9.0\StringRep.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\bin\Debug\net9.0\StringRep.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\bin\Debug\net9.0\StringRep.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\bin\Debug\net9.0\StringRep.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\bin\Debug\net9.0\StringRep.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\refint\StringRep.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\StringRep.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\StringRep\obj\Debug\net9.0\ref\StringRep.dll

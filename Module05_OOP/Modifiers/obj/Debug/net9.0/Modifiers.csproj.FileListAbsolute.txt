@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\bin\Debug\net9.0\Modifiers.exe
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\bin\Debug\net9.0\Modifiers.deps.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\bin\Debug\net9.0\Modifiers.runtimeconfig.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\bin\Debug\net9.0\Modifiers.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\bin\Debug\net9.0\Modifiers.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.AssemblyInfo.cs
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.sourcelink.json
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\refint\Modifiers.dll
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.pdb
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\Modifiers.genruntimeconfig.cache
+C:\Users\shane\source\repos\nexgenskydiver\Learning-C--LinkedInLearning\Module05_OOP\Modifiers\obj\Debug\net9.0\ref\Modifiers.dll
